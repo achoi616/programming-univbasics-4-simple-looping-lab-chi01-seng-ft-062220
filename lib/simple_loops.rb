@@ -13,4 +13,3 @@ end
 def return_string_array(array)
   puts "#{array}.join"
 end
-
