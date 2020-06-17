@@ -11,5 +11,5 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  puts "#{array}.split(",")"
+  puts array.split(",")
 end
